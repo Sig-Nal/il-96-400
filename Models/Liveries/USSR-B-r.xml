@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">USSR-B-r</name>
+            <texture>Liveries/USSR-B.png</texture>
+        </livery>
+        <lights>
+            <texture>Liveries/USSR_lights-r.png</texture>
+        </lights>
+    </model>
+</sim>
+</PropertyList>
