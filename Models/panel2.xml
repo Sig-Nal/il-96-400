@@ -1,0 +1,370 @@
+<!-- il-96-400
+
+-->
+
+<PropertyList>
+
+
+
+ <model>
+        <name>PFD1</name>
+        <path>Aircraft/il-96-400/Models/Instruments/PFD/PFD.xml</path>
+        <offsets>
+            <x-m>-23.481</x-m>
+            <y-m>-0.58600</y-m>
+            <z-m>0.397</z-m>
+            <pitch-deg>-0</pitch-deg>
+        </offsets>
+    </model> 
+    
+
+    <model>
+        <name>PFD2</name>
+        <path>Aircraft/il-96-400/Models/Instruments/PFD/PFD.xml</path>
+        <offsets>
+            <x-m>-23.481</x-m>
+            <y-m>0.595</y-m>
+            <z-m>0.3970</z-m>
+            <pitch-deg>-0</pitch-deg>
+        </offsets>
+    </model> 
+    
+    
+    <model>
+        <name>ND1</name>
+        <path>Aircraft/il-96-400/Models/Instruments/MFD/ND.xml</path>
+        <offsets>
+            <x-m>-23.489</x-m>
+            <y-m>-0.371</y-m>
+            <z-m>0.392</z-m>
+            <pitch-deg>-0</pitch-deg>
+        </offsets>
+    </model>
+    
+
+    <model>
+        <name>ND2</name>
+        <path>Aircraft/il-96-400/Models/Instruments/MFD/ND.xml</path>
+        <offsets>
+            <x-m>-23.489</x-m>
+            <y-m>0.377</y-m>
+            <z-m>0.392</z-m>
+            <pitch-deg>-0</pitch-deg>
+        </offsets>
+    </model> 
+    
+
+   <model>
+        <name>EICAS1</name>
+        <path>Aircraft/il-96-400/Models/Instruments/EICAS/eicas.xml</path>
+        <offsets>
+            <x-m>-23.486</x-m>
+            <y-m>-0.147</y-m>
+            <z-m>0.297</z-m>
+            <pitch-deg>-0</pitch-deg>
+        </offsets>
+    </model> 
+
+
+   <model>
+        <name>EICAS2</name>
+        <path>Aircraft/il-96-400/Models/Instruments/NDB/ndb.xml</path>
+        <offsets>
+            <x-m>-23.490</x-m>
+            <y-m>0.0890</y-m>
+            <z-m>0.297</z-m>
+            <heading-deg>0</heading-deg>
+           <roll-deg>180</roll-deg>
+           <pitch-deg>0</pitch-deg>
+        </offsets>
+    </model>
+ 
+ <model>
+        <name>APpanel</name>
+        <path>Aircraft/il-96-400/Models/APpanel.xml</path>
+        <offsets>
+             <x-m>-23.487</x-m>
+            <y-m>-0.006</y-m>
+            <z-m>0.627</z-m>
+            <pitch-deg>0</pitch-deg>
+        </offsets>
+    </model> 
+
+
+ <model>
+        <name>CTL1</name>
+        <path>Aircraft/il-96-400/Models/Instruments/EFIS/efis-ctl.xml</path>
+        <offsets>
+            <x-m>-23.487</x-m>
+            <y-m>-0.384</y-m>
+            <z-m>0.560</z-m>
+            <pitch-deg>-0</pitch-deg>
+        </offsets>
+    </model> 
+    
+    <model>
+        <name>CTL2</name>
+        <path>Aircraft/il-96-400/Models/Instruments/EFIS/efis-ctl.xml</path>
+        <offsets>
+            <x-m>-23.487</x-m>
+            <y-m>0.384</y-m>
+            <z-m>0.560</z-m>
+            <pitch-deg>-0</pitch-deg>
+        </offsets>
+    </model> 
+    
+   
+ 
+ 
+ 
+    <model>
+        <name>AI</name>
+        <path>Aircraft/il-96-400/Models/Instruments/ai/ai.xml</path>
+        <offsets>
+            <x-m>-23.476</x-m>
+            <y-m>-0.041</y-m>
+            <z-m>0.499</z-m>
+            <pitch-deg>-0</pitch-deg>
+        </offsets>
+    </model>
+ 
+     
+ <model>
+        <name>GearCTL</name>
+        <path>Aircraft/il-96-400/Models/gear-ctl.xml</path>
+        <offsets>
+            <x-m>-23.490</x-m>
+            <y-m>0.245</y-m>
+            <z-m>0.322</z-m>
+            <pitch-deg>0</pitch-deg>
+        </offsets>
+    </model>
+    
+    
+    <model>
+        <name>VOR</name>
+        <path>Aircraft/il-96-400/Models/Instruments/VOR/rmi1.xml</path>
+        <offsets>
+            <x-m>-23.488</x-m>
+            <y-m>-0.145</y-m>
+            <z-m>0.451</z-m>
+            <pitch-deg>0</pitch-deg>
+        </offsets>
+    </model> 
+    
+       
+   <model>
+        <name>Pane</name>
+        <path>Aircraft/il-96-400/Models/Instruments/pane/pane.xml</path>
+        <offsets>
+            <x-m>-23.488</x-m>
+            <y-m>0.219</y-m>
+            <z-m>0.452</z-m>
+            <pitch-deg>0</pitch-deg>
+        </offsets>
+    </model> 
+    
+    
+   <model>
+        <name>ASI</name>
+        <path>Aircraft/il-96-400/Models/Instruments/AS/asi.xml</path>
+        <offsets>
+            <x-m>-23.490</x-m>
+            <y-m>-0.146</y-m>
+            <z-m>0.534</z-m>
+            <pitch-deg>0</pitch-deg>
+        </offsets>
+    </model> 
+       
+    
+    
+ 
+<model>
+        <name>HSI</name>
+        <path>Aircraft/il-96-400/Models/Instruments/hsi/hsi.xml</path>
+        <offsets>
+            <x-m>-23.476</x-m>
+	    <y-m>0.085</y-m>
+            <z-m>0.493</z-m>
+            <pitch-deg>0</pitch-deg>
+        </offsets>
+    </model> 
+      
+      
+<model>
+        <name>Manual Clock1</name>
+        <path>Aircraft/il-96-400/Models/Instruments/mclock/clock.xml</path>
+        <offsets>
+            <x-m>-23.487</x-m>
+            <y-m>-0.286</y-m>
+            <z-m>0.533</z-m>
+            <pitch-deg>0</pitch-deg>
+        </offsets>
+    </model> 
+
+
+
+<model>
+        <name>Manual Clock2</name>
+        <path>Aircraft/il-96-400/Models/Instruments/mclock/clock.xml</path>
+        <offsets>
+            <x-m>-23.487</x-m>
+            <y-m>0.29</y-m>
+            <z-m>0.533</z-m>
+            <pitch-deg>0</pitch-deg>
+        </offsets>
+    </model>  
+ 
+ 
+ <model>
+        <name>Pedestal</name>
+        <path>Aircraft/il-96-400/Models/pedestal.xml</path>
+        <offsets>
+            <x-m>-22.958</x-m>
+            <y-m>0.0</y-m>
+            <z-m>-0.428</z-m>
+            <pitch-deg>0</pitch-deg>
+        </offsets>
+    </model> 
+    
+ 
+ <model>
+        <name>FuelTot</name>
+        <path>Aircraft/il-96-400/Models/Instruments/fueltot/fueltot.xml</path>
+        <offsets>
+            <x-m>-23.49</x-m>
+            <y-m>0.225</y-m>
+            <z-m>0.503</z-m>
+            <pitch-deg>0</pitch-deg>
+        </offsets>
+    </model> 
+
+
+
+     <model>
+        <name>Ap Button set 2 Left</name>
+        <path>Aircraft/il-96-400/Models/Instruments/button/APpanellights.xml</path>
+        <offsets>
+            <x-m>-23.468</x-m>
+            <y-m>-0.366</y-m>
+            <z-m>0.610</z-m>
+            <pitch-deg>0</pitch-deg>
+        </offsets>
+    </model> 
+    
+    
+    <model>
+        <name>Ap Button set 2 Right</name>
+        <path>Aircraft/il-96-400/Models/Instruments//button/APpanellights.xml</path>
+        <offsets>
+            <x-m>-23.468</x-m>
+            <y-m>0.401</y-m>
+            <z-m>0.610</z-m>
+            <pitch-deg>0</pitch-deg>
+        </offsets>
+    </model> 
+
+
+
+
+<model>
+        <name>Ap Button Main Left</name>
+        <path>Aircraft/il-96-400/Models/Instruments/button/APpanelbuttons.xml</path>
+        <offsets>
+            <x-m>-23.487</x-m>
+            <y-m>-0.482</y-m>
+            <z-m>0.604</z-m>
+            <pitch-deg>0</pitch-deg>
+        </offsets>
+    </model> 
+    
+    
+    <model>
+        <name>Ap Button Main Right</name>
+        <path>Aircraft/il-96-400/Models/Instruments/button/APpanelbuttons.xml</path>
+        <offsets>
+            <x-m>-23.487</x-m>
+            <y-m>0.486</y-m>
+            <z-m>0.604</z-m>
+            <pitch-deg>0</pitch-deg>
+        </offsets>
+    </model> 
+ 
+ 
+   <model>
+        <name>Main Panel Buttons</name>
+        <path>Aircraft/il-96-400/Models/Instruments/button/panelbuttons.xml</path>
+        <offsets>
+            <x-m>-23.486</x-m>
+            <y-m>-0.221</y-m>
+            <z-m>0.438</z-m>
+            <pitch-deg>0</pitch-deg>
+        </offsets>
+    </model> 
+ 
+ 
+ <model>
+        <name>PanelButtons</name>
+        <path>Aircraft/il-96-400/Models/Instruments/button/panelbuttons2.xml</path>
+        <offsets>
+            <x-m>-23.469</x-m>
+            <y-m>-0.117</y-m>
+            <z-m>0.439</z-m>
+            <pitch-deg>0</pitch-deg>
+        </offsets>
+    </model> 
+ 
+ 
+ <model>
+        <name>Stby</name>
+        <path>Aircraft/il-96-400/Models/Instruments/stby-alt.xml</path>
+        <offsets>
+            <x-m>-23.490</x-m>
+            <y-m>-0.222</y-m>
+            <z-m>0.517</z-m>
+            <pitch-deg>0</pitch-deg>
+        </offsets>
+    </model> 
+
+
+<animation>
+   <type>select</type>
+  <object-name>PFD1</object-name>
+  <object-name>PFD2</object-name>
+  <object-name>ND1</object-name>
+  <object-name>ND2</object-name>
+  <object-name>EICAS1</object-name>
+  <object-name>EICAS2</object-name>
+  <object-name>APpanel</object-name>
+  <object-name>CTL1</object-name>
+  <object-name>CTL2</object-name>
+  <object-name>AI</object-name>
+  <object-name>GearCTL</object-name>
+  <object-name>VOR</object-name>
+  <object-name>Pane</object-name>
+  <object-name>ASI</object-name>
+  <object-name>HSI</object-name>
+  <object-name>Manual Clock1</object-name>
+  <object-name>Manual Clock2</object-name>
+  <object-name>FuelTot</object-name>
+ <object-name>Ap Button set 2 Left</object-name>
+  <object-name>Ap Button set 2 Right</object-name>
+  <object-name>Ap Button Main Left</object-name>
+  <object-name>Ap Button Main Right</object-name>
+  <object-name>Main Panel Buttons</object-name>
+  <object-name>PanelButtons</object-name>
+ <object-name>Stby</object-name>
+ 
+  <condition>
+   
+   <equals>
+   <property>sim/current-view/name</property>
+    <value>CoPilot View</value>
+   </equals>
+   
+  </condition>
+</animation>
+
+
+
+</PropertyList>

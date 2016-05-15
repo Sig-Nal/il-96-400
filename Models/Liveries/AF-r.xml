@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">AirFrance-r</name>
+            <texture>Liveries/AF.png</texture>
+        </livery>
+        <lights>
+            <texture>Liveries/AF-lights-r.png</texture>
+						<!--diffuse>
+							<red>8.0</red>
+							<green>0.45</green>
+							<blue>0.6</blue>
+						</diffuse>
+
+						<ambient>
+							<red>8.0</red>
+							<green>0.27</green>
+							<blue>0.43</blue>
+						</ambient>
+
+						<specular>
+							<red>8.0</red>
+							<green>1.0</green>
+							<blue>1.0</blue>
+						</specular>
+
+						<emission>
+							<red>8</red>
+							<green>0</green>
+							<blue>0.04</blue>
+						</emission>
+
+						<transparency>
+							<alpha>0</alpha>
+						</transparency>
+
+						<shininess>1</shininess-->
+					</lights>
+    </model>
+</sim>
+</PropertyList>
